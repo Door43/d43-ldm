@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ldm:home|Door43 (ldm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ldm|d43-ldm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ldm/archive/master.zip|d43-ldm.zip]]
+
+**Recent Changes**
+{{changes>ns = ldm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ldm|Ethnologue data]]
+
